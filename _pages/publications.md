@@ -1,16 +1,22 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## 2022
+<br>
+<b>Staffini A.</b>, Fujita K., Svensson A.K., Chung U.-I., Svensson T., [Statistical Methods for Item Reduction in a Representative Lifestyle Questionnaire: Pilot Questionnaire Study](https://www.i-jmr.org/2022/1/e28692/), <i>Interactive Journal of Medical Research 11(1)</i>, 2022
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Staffini A.</b>, [Stock Price Forecasting by a Deep Convolutional Generative Adversarial Network](https://www.frontiersin.org/articles/10.3389/frai.2022.837596/full), <i>Frontiers in Artificial Intelligence 5</i>, 2022
+
+<b>Staffini A.</b>, Svensson T., Chung U.-I., Svensson A.K., [Heart Rate Modeling and Prediction Using Autoregressive Models and Deep Learning](https://www.mdpi.com/1424-8220/22/1/34), <i>Sensors 22(1):34</i>, 2022
+<br>
+
+## 2021
+<br>
+<b>Staffini A.</b>, Svensson A.K., Chung U.-I., Svensson T., [An Agent-Based Model of the Local Spread of SARS-CoV-2: Modeling Study](https://medinform.jmir.org/2021/4/e24192/), <i>JMIR Medical Informatics 9(4)</i>, 2021
+<br> 
+
+

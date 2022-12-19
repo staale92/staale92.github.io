@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, Catholic University of Milan, 2022
+* 2nd level Master in Economics and Finance, Catholic University of Milan, 2018 
+* M.Sc. in Economics and Management of Public Administration and International Institutions, Bocconi University, 2016 
+* B.Sc. in Economics and Social Sciences , Bocconi University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 07/2022 - present: AI Researcher (ALBERT Inc.)
+  * I am mainly doing research on Reinforcement Learning and Vision-and-Language Navigation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 04/2019 - 06/2022: Data Scientist (ALBERT Inc.)
+  * I took part in several projects, primarily in the financial and healthcare sector 
 
-Publications
+Research experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 09/2020 - present: Visiting Researcher (The University of Tokyo)
+  * I am mainly doing research in computational epidemiology and on AI applications in the healthcare sector 
+
+
+More detailed information can be found in my [CV]()
+
+
