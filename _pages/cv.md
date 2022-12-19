@@ -30,6 +30,6 @@ Research experience
   * I am mainly doing research in computational epidemiology and on AI applications in the healthcare sector 
 
 
-More detailed information can be found in my [CV]()
+More detailed information can be found in my [CV](https://staale92.github.io/files/CV_December2022.pdf)
 
 
