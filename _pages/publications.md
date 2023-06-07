@@ -4,7 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+## 2023
+<br>
+<b>Staffini A.</b>, Svensson T., Chung U.-I., Svensson A.K., [A Disentangled VAE-BiLSTM Model for Heart Rate Anomaly Detection](https://www.mdpi.com/2306-5354/10/6/683), <i>Bioengineering 10(6):683</i>, 2023
 ## 2022
 <br>
 <b>Staffini A.</b>, Fujita K., Svensson A.K., Chung U.-I., Svensson T., [Statistical Methods for Item Reduction in a Representative Lifestyle Questionnaire: Pilot Questionnaire Study](https://www.i-jmr.org/2022/1/e28692/), <i>Interactive Journal of Medical Research 11(1)</i>, 2022

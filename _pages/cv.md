@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Catholic University of Milan, 2022
+* Ph.D. in Economics, Catholic University of Milan, 2022
 * 2nd level Master in Economics and Finance, Catholic University of Milan, 2018 
 * M.Sc. in Economics and Management of Public Administration and International Institutions, Bocconi University, 2016 
 * B.Sc. in Economics and Social Sciences , Bocconi University, 2014
@@ -30,6 +30,6 @@ Research experience
   * I am mainly doing research in computational epidemiology and on AI applications in the healthcare sector 
 
 
-More detailed information can be found in my [CV](https://staale92.github.io/files/CV_December2022.pdf)
+More detailed information can be found in my [CV](https://staale92.github.io/files/CV_June2023.pdf) (<i>last update: June 2023</i>)
 
 
