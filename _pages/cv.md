@@ -18,8 +18,11 @@ Education
 
 Work experience
 ======
-* 07/2022 - present: AI Researcher (ALBERT Inc.)
-  * I am mainly doing research on Reinforcement Learning and Vision-and-Language Navigation
+* 07/2023 - present: Senior Data Scientist (KPMG Advisory Lighthouse)
+  * I am mainly working on Natural Language Processing and applied Reinforcement Learning
+
+* 07/2022 - 05/2023: AI Researcher (ALBERT Inc.)
+  * I mainly did research on Reinforcement Learning and Vision-and-Language Navigation
 
 * 04/2019 - 06/2022: Data Scientist (ALBERT Inc.)
   * I took part in several projects, primarily in the financial and healthcare sector 
@@ -30,6 +33,6 @@ Research experience
   * I am mainly doing research in computational epidemiology and on AI applications in the healthcare sector 
 
 
-More detailed information can be found in my [CV](https://staale92.github.io/files/CV_June2023.pdf) (<i>last update: June 2023</i>)
+More detailed information can be found in my [CV](https://staale92.github.io/files/CV_December2023.pdf) (<i>last update: December 2023</i>)
 
 
