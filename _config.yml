@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alessio Staffini"
 title_separator          : "-"
 name                     : &name "Alessio Staffini"
-description              : &description "AI Researcher"
+description              : &description "Data Scientist"
 url                      : https://staale92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : https://staale92.github.io
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Alessio Staffini"
   avatar           : "profile.png"
-  bio              : "AI Researcher"
+  bio              : "Data Scientist"
   location         : "Tokyo, JP"
-  employer         : "ALBERT Inc."
+  employer         : "KPMG Advisory Lighthouse"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5izUeQQAAAAJ&hl=en"
   email            : "alessio.staffini@bocconialumni.it"
-  researchgate     :  "https://www.researchgate.net/profile/Alessio-Staffini"
+  researchgate     : "https://www.researchgate.net/profile/Alessio-Staffini"
   uri              :
   bitbucket        :
   codepen          :
