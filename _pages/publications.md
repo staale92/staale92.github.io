@@ -15,10 +15,9 @@ author_profile: true
 <b>Staffini A.</b>, Svensson T., Chung U.-I., Svensson A.K., [Heart Rate Modeling and Prediction Using Autoregressive Models and Deep Learning](https://www.mdpi.com/1424-8220/22/1/34), <i>Sensors 22(1):34</i>, 2022
 
 <b>Staffini A.</b>, Svensson A.K., Chung U.-I., Svensson T., [An Agent-Based Model of the Local Spread of SARS-CoV-2: Modeling Study](https://medinform.jmir.org/2021/4/e24192/), <i>JMIR Medical Informatics 9(4)</i>, 2021
-<br> 
+<br>
 
 ## Conference Papers
 <br>
-<b>Staffini A.</b>, [A CNN-BiLSTM Architecture for Macroeconomic Time Series Forecasting](https://www.mdpi.com/2673-4591/39/1/33), <i>Engineering Proceedings 39(1):33</i>, 2023 <i>(presented at the 9th International Conference on Time Series and Forecasting,
-ITISE 2023)</i>
+<b>Staffini A.</b>, <a href="https://www.mdpi.com/2673-4591/39/1/33">A CNN-BiLSTM Architecture for Macroeconomic Time Series Forecasting</a>, <i>Engineering Proceedings 39(1):33</i>, 2023 (presented at the 9th International Conference on Time Series and Forecasting, <i>ITISE 2023</i>)
 <br>
